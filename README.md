@@ -46,3 +46,7 @@ b - Multimodal prompts
 
 ## An AI agent is an LLM powered system that can autonomously think,decide and take action using external tools or APIs to achieve a goal.
 
+## Toolkit
+
+- A toolkit is just a collection (bundle) of related tools that serves a common purpose-  packaged together for convenience and resuability.
+
